@@ -1,0 +1,9 @@
+beautifulsoup4==4.6.0
+lxml==4.1.0
+peewee==2.10.2
+PyMySQL==0.7.11
+redis==2.10.6
+requests==2.18.4
+Flask==0.12.2
+Flask-RESTful==0.3.6
+peewee-migrate==0.14.0
