@@ -3,7 +3,7 @@
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
 from config.api_handler import handler
-from config.items import FAILED_CODE, SUCCESS_CODE, DEBUG_STATUS, API_HOST, API_PORT
+from config.setting import FAILED_CODE, SUCCESS_CODE, DEBUG_STATUS, API_HOST, API_PORT
 
 # API入口
 app = Flask(__name__)
